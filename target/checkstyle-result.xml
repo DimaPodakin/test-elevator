@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Progects_mate\my_progects_ultimate\test-elevator\src\main\java\dataox\abstraction\Capacious.java">
+</file>
+<file name="C:\Progects_mate\my_progects_ultimate\test-elevator\src\main\java\dataox\abstraction\Directional.java">
+</file>
+<file name="C:\Progects_mate\my_progects_ultimate\test-elevator\src\main\java\dataox\abstraction\Elevator.java">
+</file>
+<file name="C:\Progects_mate\my_progects_ultimate\test-elevator\src\main\java\dataox\abstraction\Movable.java">
+</file>
+<file name="C:\Progects_mate\my_progects_ultimate\test-elevator\src\main\java\dataox\Building.java">
+</file>
+<file name="C:\Progects_mate\my_progects_ultimate\test-elevator\src\main\java\dataox\ElevatorImpl.java">
+</file>
+<file name="C:\Progects_mate\my_progects_ultimate\test-elevator\src\main\java\dataox\Main.java">
+</file>
+</checkstyle>
